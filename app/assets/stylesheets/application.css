@@ -13,3 +13,24 @@
  *= require_tree .
  *= require_self
  */
+ 
+ 
+
+
+.top-page{
+    margin:33px;
+    line-height: 18px;
+    font-size: 13px;
+}
+
+.top-text span {
+    font-weight: bold;
+}
+
+.top-text p {
+    margin: 33px;
+}
+
+.top-text a {
+    margin: 33px;
+}
